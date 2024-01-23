@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: tiktokify
+Version: 0.1.dev0
+Summary: Make those Family Guy clip pages on TikTok
+Home-page: https://github.com/ctih1
+Author: Onni Nevala
+Author-email: onni09nevala@gmail.com
+License: MIT
+Keywords: tiktok python moviepy automation familyguy
+
+A program that gets 2 videos (top and bottom), stacks them on eachother, and exports the combined video.

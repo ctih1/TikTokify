@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+tiktokify/__init__.py
+tiktokify.egg-info/PKG-INFO
+tiktokify.egg-info/SOURCES.txt
+tiktokify.egg-info/dependency_links.txt
+tiktokify.egg-info/top_level.txt
+tiktokify.egg-info/zip-safe
