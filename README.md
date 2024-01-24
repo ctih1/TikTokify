@@ -13,8 +13,8 @@ Convert two videos into a dopamine-overloaded TikTok!
 # Installation
 1. Using git
 ```
-git clone https://ctih1/ttify
-cd ttify
+git clone https://ctih1/TikTokify
+cd TikTokify
 pip install -r requirements.txt
 cd src
 python main.py
